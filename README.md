@@ -4,13 +4,13 @@
 
 </p>
 
-<h3 align="center">
-  # Hello Everyone! ✌️
-</h3>
-
 <h2 align="center">
-🖥️ My name is Matej. I'm Junior Software Developer with passion in coding. 💻
+  Hello Everyone! ✌️
 </h2>
+
+<h3 align="center">
+🖥️ My name is Matej. I'm Junior Software Developer with passion in coding. 💻
+</h3>
 
 I love to learn new technique to develop better and good looking code. We learning through whole life! Creativity and passionate for coding is my best advantage.
 I like to challenge every task what can I solve.
