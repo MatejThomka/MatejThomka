@@ -44,6 +44,7 @@ I like to challenge every task what can I solve.
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![JakartaEE](https://img.shields.io/badge/Jakarta%20EE-FA5C05)
 
 ## GitHub Stats
 [![Matej's github stats](https://github-readme-stats.vercel.app/api?username=MatejThomka)](https://github.com/MatejThomka)
