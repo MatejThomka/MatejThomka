@@ -1,4 +1,8 @@
+<p align="center">
+  
 ![jolly (1)](https://github.com/MatejThomka/MatejThomka/assets/97446764/14aa2c5a-bc33-49ec-87ed-5cfda6d7e07d)
+
+</p>
 
 # Hello Everyone!
 
