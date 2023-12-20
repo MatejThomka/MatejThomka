@@ -18,7 +18,7 @@ I like to challenge every task what can I solve.
 ### 🤝You can reach me here:🤝
 <a href="https://www.linkedin.com/in/matej-thomka-ab2212286/"><img align="left" src="https://raw.githubusercontent.com/MatejThomka/MatejThomka/main/images/linkedin.png" alt="linkedin" width="30px"/></a>
 <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=matej.thomka.eleinst@gmail.com"><img align="left" src="https://raw.githubusercontent.com/MatejThomka/MatejThomka/main/images/gmail.png" alt="gmail" width="30px"/></a>
-
+<br>
 
 ## 🔬 I'm learning right now
 
