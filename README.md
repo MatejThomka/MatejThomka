@@ -12,8 +12,8 @@ I like to challenge every task what can I solve.
 
 
 # 🤝You can reach me here:🤝
-<a href="https://www.linkedin.com/in/matej-thomka-ab2212286/"><img align="left" src="https://raw.githubcontent.com/MatejThomka/MatejThomka/main/images/linkedin.png" alt="MatejThomka | LinkedIn" width="21px"/></a>
-<a href="matej.thomka.eleinst@gmail.com"><img align="left" src="https://raw.githubcontent.com/MatejThomka/MatejThomka/main/images/gmail.png" alt="MatejThomka | Gmail" width="21px"/></a>
+<a href="https://www.linkedin.com/in/matej-thomka-ab2212286/"><img align="left" src="https://raw.githubcontent.com/MatejThomka/MatejThomka/main/images/linkedin.png" alt="linkedin" width="21px"/></a>
+<a href="matej.thomka.eleinst@gmail.com"><img align="left" src="https://raw.githubcontent.com/MatejThomka/MatejThomka/main/images/gmail.png" alt="gmail" width="21px"/></a>
 
 <!--
 **MatejThomka/MatejThomka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
