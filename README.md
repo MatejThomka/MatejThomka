@@ -22,6 +22,7 @@ I like to challenge every task what can I solve.
 <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=matej.thomka.eleinst@gmail.com"><img align="left" src="https://raw.githubusercontent.com/MatejThomka/MatejThomka/main/images/gmail.png" alt="gmail" width="30px"/></a>
 <br>
 
+
 ## 🔬 I'm learning right now
 
 - Java Swing
