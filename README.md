@@ -1,6 +1,6 @@
 <p align="center">
-  
-![jolly (1)](https://github.com/MatejThomka/MatejThomka/assets/97446764/14aa2c5a-bc33-49ec-87ed-5cfda6d7e07d)
+
+<img width="600" height="200" src="https://github.com/MatejThomka/MatejThomka/assets/97446764/14aa2c5a-bc33-49ec-87ed-5cfda6d7e07d" alt="jolly (1)">
 
 </p>
 
