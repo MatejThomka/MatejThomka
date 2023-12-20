@@ -3,14 +3,17 @@
 <img width="600" height="200" src="https://github.com/MatejThomka/MatejThomka/assets/97446764/14aa2c5a-bc33-49ec-87ed-5cfda6d7e07d" alt="jolly (1)">
 
 </p>
+<br>
 
 <h2 align="center">
   Hello Everyone! ✌️
 </h2>
+<br>
 
 <h3 align="center">
 🖥️ My name is Matej. I'm Junior Software Developer with passion in coding. 💻
 </h3>
+<br>
 
 I love to learn new technique to develop better and good looking code. We learning through whole life! Creativity and passionate for coding is my best advantage.
 I like to challenge every task what can I solve.
@@ -25,10 +28,12 @@ I like to challenge every task what can I solve.
 - Java Swing
 - JavaFX
 - Jakarta EE/WildFly
+<br>
 
 ## 🖋️ I'm working right now
 
 -
+<br>
 
 ## 🚀 My skills
 
@@ -47,11 +52,13 @@ I like to challenge every task what can I solve.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![JakartaEE](https://img.shields.io/badge/Jakarta%20EE-FA5C05?style=for-the-badge&logo=Jakarta&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
+<br>
 
 ## GitHub Stats
 [![Matej's github stats](https://github-readme-stats.vercel.app/api?username=MatejThomka)](https://github.com/MatejThomka)
+<br>
 
 [![Matej's most used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=MatejThomka)](https://github.com/MatejThomka)
+<br>
 
 [![Matej's strike](https://github-readme-streak-stats.herokuapp.com/?user=MatejThomka)](https://github.com/MatejThomka)
