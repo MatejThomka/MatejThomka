@@ -53,6 +53,8 @@ I like to challenge every task what can I solve.
 
 [![Matej's most used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=MatejThomka)](https://github.com/MatejThomka)
 
+[![Matej's strike](https://github-readme-streak-stats.herokuapp.com/?user=MatejThomka)](https://github.com/MatejThomka)
+
 
 
 <!--
