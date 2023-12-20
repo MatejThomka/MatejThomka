@@ -16,8 +16,6 @@
 I love to learn new technique to develop better and good looking code. We learning through whole life! Creativity and passionate for coding is my best advantage.
 I like to challenge every task what can I solve.
 <br>
-<br>
-<br>
 
 ### 🤝You can reach me here:🤝
 <a href="https://www.linkedin.com/in/matej-thomka-ab2212286/"><img align="left" src="https://raw.githubusercontent.com/MatejThomka/MatejThomka/main/images/linkedin.png" alt="linkedin" width="30px"/></a>
