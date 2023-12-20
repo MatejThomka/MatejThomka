@@ -1,5 +1,11 @@
-### Hi there 👋
+![jolly (1)](https://github.com/MatejThomka/MatejThomka/assets/97446764/14aa2c5a-bc33-49ec-87ed-5cfda6d7e07d)
 
+# Hello Everyone!
+
+My name is Matej. I'm Junior Software Developer with passion in coding.
+
+# You can reach me here:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matej-thomka-ab2212286/) [![Facebook](
 <!--
 **MatejThomka/MatejThomka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
