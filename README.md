@@ -2,16 +2,20 @@
 
 <img width="600" height="200" src="https://github.com/MatejThomka/MatejThomka/assets/97446764/14aa2c5a-bc33-49ec-87ed-5cfda6d7e07d" alt="jolly (1)">
 
-# Hello Everyone! ✌️
-
-🖥️ My name is Matej. I'm Junior Software Developer with passion in coding. 💻
 </p>
+
+<h3 align="center">
+  # Hello Everyone! ✌️
+</h3>
+
+<h2 align="center">
+🖥️ My name is Matej. I'm Junior Software Developer with passion in coding. 💻
+</h2>
 
 I love to learn new technique to develop better and good looking code. We learning through whole life! Creativity and passionate for coding is my best advantage.
 I like to challenge every task what can I solve.
 
-
-# 🤝You can reach me here:🤝
+### 🤝You can reach me here:🤝
 <a href="https://www.linkedin.com/in/matej-thomka-ab2212286/"><img align="left" src="https://raw.githubusercontent.com/MatejThomka/MatejThomka/main/images/linkedin.png" alt="linkedin" width="30px"/></a>
 <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=matej.thomka.eleinst@gmail.com"><img align="left" src="https://raw.githubusercontent.com/MatejThomka/MatejThomka/main/images/gmail.png" alt="gmail" width="30px"/></a>
 
