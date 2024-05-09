@@ -27,7 +27,7 @@ I like to challenge every task what can I solve.
 
 - Java Swing
 - JavaFX
-- Jakarta EE/WildFly
+- Angular
 <br>
 
 ## 🖋️ I'm working right now
