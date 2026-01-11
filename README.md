@@ -72,6 +72,8 @@ and continuously learning new technologies to sharpen my craft.
 - **SCRUM & Agile delivery experience**  
   (daily standups, sprint planning, backlog refinement, retros)
 - Collaboration across distributed/global engineering teams
+- Experience creating Helm charts and managing Kubernetes deployments with kubectl
+
 
 ---
 
