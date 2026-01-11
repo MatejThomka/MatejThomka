@@ -1,93 +1,112 @@
-<h2 align="center">👋 Hi, I'm Matej — Java Backend Developer</h2>
+<h2 align="center">👋 Hi, I'm Matej — Java & Cloud Backend Engineer</h2>
 
 <p align="center">
-  Passionate about building scalable backend systems with modern Java, Spring Boot and reactive technologies.
+  Building scalable backend systems with Java, Spring Boot, cloud technologies and reactive patterns.
 </p>
 
 ---
 
 ## 🚀 About Me
-I’m a software developer focusing primarily on backend development using **Java 21**,  
-**Spring Boot (MVC & WebFlux)**, and modern cloud-ready architectures.
+I’m a backend-focused software engineer with nearly two years of industry experience  
+(currently at **AT&T**) working on enterprise-grade distributed systems.
 
-I enjoy designing APIs, solving real-world problems, and writing maintainable, testable code.  
-Outside of backend work, I’m also comfortable building UI layers using **React, Angular**, and **Next.js**.
+My core expertise revolves around **Java 21 and Spring Boot** while leveraging  
+modern cloud and DevOps practices to deploy, scale and operate applications in production.
 
-🌍 Based in Slovakia  
-📅 Commercial experience in backend development  
-🎯 Actively building projects to sharpen architecture and design skills  
+I love designing well-structured APIs, exploring distributed systems,  
+and continuously learning new technologies to sharpen my craft.
+
+🌍 Slovakia  
+💼 Currently @ **AT&T**  
+🎓 **AZ-204 Certified: Developing Solutions for Microsoft Azure**
 
 ---
 
 ## 🛠 Tech Stack
 
-### **Backend**
-- Java 21, Spring Boot 3.5.7
-- Spring MVC, Spring WebFlux
-- Spring Security (JWT / OAuth2)
-- REST APIs, async/reactive systems
-- Maven 3.9
+### **Backend & Architecture**
+- Java 17 / 21
+- Spring Boot 3.x — MVC & WebFlux
+- Spring Security (JWT, OAuth2)
+- REST APIs, contract-first design
+- Reactive pipelines (Flux / Mono)
+- **Domain-Driven Design** fundamentals
+
+### **Cloud & Platform**
+- **Microsoft Azure** (AKS, App Services, Cosmos DB, Key Vault, Event Hub basics)
+- **Kubernetes**
+- Docker, containerization
+- CI/CD pipelines (GitHub Actions / Azure Pipelines basics)
+- Deployment automation
 
 ### **Databases**
 - PostgreSQL, MySQL
 - **Microsoft SQL Server**
 - **MongoDB**
-- **Azure Cosmos DB** (Mongo / SQL API)
+- **Azure Cosmos DB** (Mongo & SQL API modes)
 
-### **Frontend**
-- React, Angular, Next.js
+### **Messaging & Distributed Systems**
+- **Apache Kafka** (core concepts, consumers/producers, topics)
+- **Temporal Workflow Engine** basics
+- Event-driven architecture patterns
 
-### **Tools & Other**
-- Docker & containers
-- CI/CD (GitHub Actions basics)
-- Testcontainers, JUnit 5, Mockito
-- Domain-driven design (DDD fundamentals)
+### **Frontend Experience**
+- React, Angular, Next.js (supporting UI development)
+
+### **Tools & Environments**
+- IntelliJ IDEA
+- **Windows + WSL2 integration**
+- Linux tooling
+- Docker Desktop
+- JUnit 5, Mockito, Testcontainers
 
 ---
 
 ## 📌 Featured Projects
-(Repositories coming soon — updating portfolio.)
+*(Portfolio in active development — highlighting my core focus areas)*
 
-#### 🔒 **Enterprise API (Spring Boot)**  
-Production-ready REST API with:
-- JWT authentication
-- Role-based access control
-- MS SQL + MongoDB integration
-- Docker deployment
-- Complete modular package structure
+#### 🏛️ **Enterprise Spring Boot API**
+Highly structured API showcasing:
+- Clean domain layers
+- Secure authentication (JWT)
+- MS SQL + MongoDB/CosmosDB
+- Dockerized deployment + CI/CD hooks
 
-#### ⚡ **Reactive WebFlux API**
-Fully non-blocking backend using:
-- Spring WebFlux
+#### ⚡ **Reactive WebFlux Microservice**
+Explores:
+- Non-blocking I/O
+- Backpressure aware streaming
 - ReactiveMongoRepository
-- Flux/Mono patterns
-- Backpressure-aware streaming
+- Unit + integration testing
 
-#### 🌐 **Fullstack App (Spring + React)**
-Authentication-enabled client + API:
+#### ☁️ **Azure-Ready Deployment Demo**
+Spring Boot app containerized & deployed using:
+- Azure Kubernetes Service (AKS)
+- Azure App Service (alt path)
+- GitHub Actions CI/CD
+- Key Vault / secrets integration
+
+#### 🌐 **Fullstack Java + React Application**
+Complete flow:
+- Frontend & backend auth
 - CRUD operations
-- Integrated login flow
-- Reusable UI components
-
-#### ☁️ **CosmosDB Event Store** *(demo)*
-Exploring cloud-ready storage with:
-- Partitioning strategies
-- Consistency model examples
-- Local emulator support
+- API gateway integration (optional)
 
 ---
 
-## 📈 What I'm Working On
-- Strengthening architectural patterns & scalability
-- Deep diving into Streaming, WebFlux & messaging
-- Building polished portfolio projects for interviews
+## 📈 What I'm Learning / Improving
+- Distributed systems design patterns
+- Observability (logs, metrics, tracing)
+- Event-driven architectures (Kafka, Event Hub)
+- Cloud-native resiliency patterns (circuit breakers, retries)
+- Workflow orchestration (Temporal)
 
 ---
 
 ## 🤝 Let’s Connect
 💼 **LinkedIn:** https://www.linkedin.com/in/matej-thomka-ab2212286  
-📧 *Feel free to reach out — always open to collaboration and new opportunities.*
+📧 Always open to collaboration, discussions and new opportunities.
 
 ---
 
-> _“Clean code isn’t just readable — it tells a story.”_
+> _“Good software is built, great software evolves.”_
