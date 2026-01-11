@@ -39,7 +39,7 @@ and continuously learning new technologies to sharpen my craft.
 - CI/CD pipelines (GitHub Actions / Azure Pipelines basics)
 - Deployment automation into cloud + Kubernetes
 
-### **🗄 🛢 <img src="https://img.icons8.com/ios-filled/24/000000/database.png"/> Databases**
+### **<img src="https://img.icons8.com/fluency/24/00c853/database.png"/> Databases**
 - PostgreSQL (blocking + reactive)
 - Microsoft SQL Server
 - MySQL
