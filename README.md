@@ -40,10 +40,12 @@ and continuously learning new technologies to sharpen my craft.
 - Deployment automation into cloud + Kubernetes
 
 ### **Databases**
-- PostgreSQL, MySQL
-- **Microsoft SQL Server**
-- **MongoDB**
-- **Azure Cosmos DB** (Mongo & SQL API modes)
+- PostgreSQL (blocking + reactive)
+- Microsoft SQL Server
+- MySQL
+- MongoDB (for reactive apps)
+- Azure Cosmos DB (cloud-focused projects)
+- *All SQL databases managed with Liquibase migrations*
 
 ### **Messaging & Distributed Systems**
 - **Apache Kafka** (consumers/producers, partitions, topics)
