@@ -24,7 +24,7 @@ and continuously learning new technologies to sharpen my craft.
 
 ## 🛠 Tech Stack
 
-### **Backend & Architecture**
+### **💻 Backend & Architecture**
 - Java 17 / 21
 - Spring Boot 3.x — MVC & WebFlux
 - Spring Security (JWT, OAuth2)
@@ -32,14 +32,14 @@ and continuously learning new technologies to sharpen my craft.
 - Reactive pipelines (Flux / Mono)
 - **Domain-Driven Design** fundamentals
 
-### **Cloud & Platform**
+### **☁️ Cloud & Platform**
 - **Microsoft Azure** (AKS, App Services, Cosmos DB, Key Vault, Event Hub basics)
 - **Kubernetes (kubectl, Helm charts)** – deployment & cluster management
 - Docker & containerization
 - CI/CD pipelines (GitHub Actions / Azure Pipelines basics)
 - Deployment automation into cloud + Kubernetes
 
-### **Databases**
+### **🗄 Databases**
 - PostgreSQL (blocking + reactive)
 - Microsoft SQL Server
 - MySQL
@@ -47,15 +47,15 @@ and continuously learning new technologies to sharpen my craft.
 - Azure Cosmos DB (cloud-focused projects)
 - *All SQL databases managed with Liquibase migrations*
 
-### **Messaging & Distributed Systems**
+### **⚡ Messaging & Distributed Systems**
 - **Apache Kafka** (consumers/producers, partitions, topics)
 - **Temporal Workflow Engine** basics
 - Event-driven design patterns
 
-### **Frontend Exposure**
+### **🌐 Frontend Exposure**
 - React, Angular, Next.js (supporting UI development)
 
-### **Tools & Environments**
+### **🛠 Tools & Environments**
 - IntelliJ IDEA  
 - **Windows + WSL2 integration**
 - Linux CLI tooling
