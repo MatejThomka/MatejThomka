@@ -35,9 +35,9 @@ and continuously learning new technologies to sharpen my craft.
 ### **Cloud & Platform**
 - **Microsoft Azure** (AKS, App Services, Cosmos DB, Key Vault, Event Hub basics)
 - **Kubernetes**
-- Docker, containerization
+- Docker & containerization
 - CI/CD pipelines (GitHub Actions / Azure Pipelines basics)
-- Deployment automation
+- Deployment automation into cloud + Kubernetes
 
 ### **Databases**
 - PostgreSQL, MySQL
@@ -46,19 +46,32 @@ and continuously learning new technologies to sharpen my craft.
 - **Azure Cosmos DB** (Mongo & SQL API modes)
 
 ### **Messaging & Distributed Systems**
-- **Apache Kafka** (core concepts, consumers/producers, topics)
+- **Apache Kafka** (consumers/producers, partitions, topics)
 - **Temporal Workflow Engine** basics
-- Event-driven architecture patterns
+- Event-driven design patterns
 
-### **Frontend Experience**
+### **Frontend Exposure**
 - React, Angular, Next.js (supporting UI development)
 
 ### **Tools & Environments**
-- IntelliJ IDEA
+- IntelliJ IDEA  
 - **Windows + WSL2 integration**
-- Linux tooling
+- Linux CLI tooling
 - Docker Desktop
 - JUnit 5, Mockito, Testcontainers
+
+---
+
+## 🤝 Development & Collaboration Practices
+- Experience with **Git workflows** (feature branches, rebasing, merge strategies)
+- Creating and reviewing **Pull Requests** within enterprise teams
+- **Practical experience with Git submodules**  
+  (one parent repository controlling multiple feature/service repos directly in IntelliJ IDEA)
+- Ability to **build reusable Maven modules/libraries** for internal consumption  
+  and integrate them across microservices
+- **SCRUM & Agile delivery experience**  
+  (daily standups, sprint planning, backlog refinement, retros)
+- Collaboration across distributed/global engineering teams
 
 ---
 
@@ -69,28 +82,28 @@ and continuously learning new technologies to sharpen my craft.
 Highly structured API showcasing:
 - Clean domain layers
 - Secure authentication (JWT)
-- MS SQL + MongoDB/CosmosDB
+- MS SQL + MongoDB/Cosmos DB
 - Dockerized deployment + CI/CD hooks
 
 #### ⚡ **Reactive WebFlux Microservice**
 Explores:
 - Non-blocking I/O
-- Backpressure aware streaming
+- Backpressure-aware streaming
 - ReactiveMongoRepository
 - Unit + integration testing
 
 #### ☁️ **Azure-Ready Deployment Demo**
 Spring Boot app containerized & deployed using:
 - Azure Kubernetes Service (AKS)
-- Azure App Service (alt path)
+- Azure App Service (alternative deployment path)
 - GitHub Actions CI/CD
 - Key Vault / secrets integration
 
 #### 🌐 **Fullstack Java + React Application**
 Complete flow:
-- Frontend & backend auth
+- Frontend & backend authentication
 - CRUD operations
-- API gateway integration (optional)
+- Optional API gateway integration
 
 ---
 
@@ -98,7 +111,7 @@ Complete flow:
 - Distributed systems design patterns
 - Observability (logs, metrics, tracing)
 - Event-driven architectures (Kafka, Event Hub)
-- Cloud-native resiliency patterns (circuit breakers, retries)
+- Cloud-native resiliency (circuit breakers, retry patterns)
 - Workflow orchestration (Temporal)
 
 ---
