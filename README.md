@@ -28,7 +28,7 @@ and continuously learning new technologies to sharpen my craft.
 - Java 17 / 21
 - Spring Boot 3.x — MVC & WebFlux
 - Spring Security (JWT, OAuth2)
-- REST APIs, contract-first design
+- REST APIs, contract-first design + OpenAPI/Swagger UI
 - Reactive pipelines (Flux / Mono)
 - **Domain-Driven Design** fundamentals
 
