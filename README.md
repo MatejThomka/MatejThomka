@@ -24,7 +24,7 @@ and continuously learning new technologies to sharpen my craft.
 
 ## 🛠 Tech Stack
 
-### **💻 Backend & Architecture**
+### **💻 <img src="https://img.icons8.com/fluency/24/007bff/settings.png"/> Backend & Architecture**
 - Java 17 / 21
 - Spring Boot 3.x — MVC & WebFlux
 - Spring Security (JWT, OAuth2)
@@ -32,7 +32,7 @@ and continuously learning new technologies to sharpen my craft.
 - Reactive pipelines (Flux / Mono)
 - **Domain-Driven Design** fundamentals
 
-### **☁️ Cloud & Platform**
+### **☁️ <img src="https://img.icons8.com/fluency/24/00c853/cloud.png"/> Cloud & Platform**
 - **Microsoft Azure** (AKS, App Services, Cosmos DB, Key Vault, Event Hub basics)
 - **Kubernetes (kubectl, Helm charts)** – deployment & cluster management
 - Docker & containerization
@@ -47,15 +47,15 @@ and continuously learning new technologies to sharpen my craft.
 - Azure Cosmos DB (cloud-focused projects)
 - *All SQL databases managed with Liquibase migrations*
 
-### **⚡ Messaging & Distributed Systems**
+### **⚡<img src="https://img.icons8.com/fluency/24/ffbb00/lightning-bolt.png"/> Messaging & Distributed Systems**
 - **Apache Kafka** (consumers/producers, partitions, topics)
 - **Temporal Workflow Engine** basics
 - Event-driven design patterns
 
-### **🌐 Frontend Exposure**
+### **🌐 <img src="https://img.icons8.com/fluency/24/ff3d00/domain.png"/> Frontend Exposure**
 - React, Angular, Next.js (supporting UI development)
 
-### **🛠 Tools & Environments**
+### **🛠 <img src="https://img.icons8.com/fluency/24/8e24aa/tools.png"/> Tools & Environments**
 - IntelliJ IDEA  
 - **Windows + WSL2 integration**
 - Linux CLI tooling
@@ -79,7 +79,7 @@ and continuously learning new technologies to sharpen my craft.
 
 ---
 
-## 📌 Featured Projects
+## 📌 <img src="https://img.icons8.com/fluency/24/03a9f4/project.png"/> Featured Projects
 *(Portfolio in active development — highlighting my core focus areas)*
 
 #### 🏛️ **Enterprise Spring Boot API**
