@@ -22,7 +22,7 @@ Outside of backend work, I’m also comfortable building UI layers using **React
 ## 🛠 Tech Stack
 
 ### **Backend**
-- Java 21, Spring Boot 3.x
+- Java 21, Spring Boot 3.5.7
 - Spring MVC, Spring WebFlux
 - Spring Security (JWT / OAuth2)
 - REST APIs, async/reactive systems
