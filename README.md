@@ -55,7 +55,7 @@ and continuously learning new technologies to sharpen my craft.
 ### <img src="https://img.icons8.com/fluency/24/ff3d00/domain.png"/> Frontend Exposure
 - React, Angular, Next.js (supporting UI development)
 
-### <img src="https://img.icons8.com/fluency/24/8e24aa/tools.png"/> Tools & Environments
+### <img src="https://img.icons8.com/fluency/24/29b6f6/wrench.png"/> Tools & Environments
 - IntelliJ IDEA  
 - **Windows + WSL2 integration**
 - Linux CLI tooling
