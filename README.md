@@ -34,7 +34,7 @@ and continuously learning new technologies to sharpen my craft.
 
 ### **Cloud & Platform**
 - **Microsoft Azure** (AKS, App Services, Cosmos DB, Key Vault, Event Hub basics)
-- **Kubernetes**
+- **Kubernetes (kubectl, Helm charts)** – deployment & cluster management
 - Docker & containerization
 - CI/CD pipelines (GitHub Actions / Azure Pipelines basics)
 - Deployment automation into cloud + Kubernetes
