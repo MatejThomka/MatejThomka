@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm Matej — Java & Cloud Backend Engineer</h2>
+<h2 align="center"><img src="https://img.icons8.com/fluency/24/03a9f4/waving-hand.png"/> Hi, I'm Matej — Java & Cloud Backend Engineer</h2>
 
 <p align="center">
   Building scalable backend systems with Java, Spring Boot, cloud technologies and reactive patterns.
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## <img src="https://img.icons8.com/fluency/24/ffbb00/info.png"/> About Me
 I’m a backend-focused software engineer with nearly two years of industry experience  
 (currently at **AT&T**) working on enterprise-grade distributed systems.
 
@@ -16,15 +16,15 @@ modern cloud and DevOps practices to deploy, scale and operate applications in p
 I love designing well-structured APIs, exploring distributed systems,  
 and continuously learning new technologies to sharpen my craft.
 
-🌍 Slovakia  
-💼 Currently @ **AT&T**  
-🎓 **AZ-204 Certified: Developing Solutions for Microsoft Azure**
+<img src="https://img.icons8.com/fluency/24/00c853/world.png"/> Slovakia  
+<img src="https://img.icons8.com/fluency/24/007bff/briefcase.png"/> Currently @ **AT&T**  
+<img src="https://img.icons8.com/fluency/24/ff3d00/certificate.png"/> **AZ-204 Certified: Developing Solutions for Microsoft Azure**
 
 ---
 
-## 🛠 Tech Stack
+## <img src="https://img.icons8.com/fluency/24/007bff/settings.png"/> Tech Stack
 
-### **💻 <img src="https://img.icons8.com/fluency/24/007bff/settings.png"/> Backend & Architecture**
+### <img src="https://img.icons8.com/fluency/24/007bff/settings.png"/> Backend & Architecture
 - Java 17 / 21
 - Spring Boot 3.x — MVC & WebFlux
 - Spring Security (JWT, OAuth2)
@@ -32,14 +32,14 @@ and continuously learning new technologies to sharpen my craft.
 - Reactive pipelines (Flux / Mono)
 - **Domain-Driven Design** fundamentals
 
-### **☁️ <img src="https://img.icons8.com/fluency/24/00c853/cloud.png"/> Cloud & Platform**
+### <img src="https://img.icons8.com/fluency/24/00c853/cloud.png"/> Cloud & Platform
 - **Microsoft Azure** (AKS, App Services, Cosmos DB, Key Vault, Event Hub basics)
 - **Kubernetes (kubectl, Helm charts)** – deployment & cluster management
 - Docker & containerization
 - CI/CD pipelines (GitHub Actions / Azure Pipelines basics)
 - Deployment automation into cloud + Kubernetes
 
-### **<img src="https://img.icons8.com/fluency/24/00c853/database.png"/> Databases**
+### <img src="https://img.icons8.com/fluency/24/00c853/database.png"/> Databases
 - PostgreSQL (blocking + reactive)
 - Microsoft SQL Server
 - MySQL
@@ -47,15 +47,15 @@ and continuously learning new technologies to sharpen my craft.
 - Azure Cosmos DB (cloud-focused projects)
 - *All SQL databases managed with Liquibase migrations*
 
-### **⚡<img src="https://img.icons8.com/fluency/24/ffbb00/lightning-bolt.png"/> Messaging & Distributed Systems**
+### <img src="https://img.icons8.com/fluency/24/ffbb00/lightning-bolt.png"/> Messaging & Distributed Systems
 - **Apache Kafka** (consumers/producers, partitions, topics)
 - **Temporal Workflow Engine** basics
 - Event-driven design patterns
 
-### **🌐 <img src="https://img.icons8.com/fluency/24/ff3d00/domain.png"/> Frontend Exposure**
+### <img src="https://img.icons8.com/fluency/24/ff3d00/domain.png"/> Frontend Exposure
 - React, Angular, Next.js (supporting UI development)
 
-### **🛠 <img src="https://img.icons8.com/fluency/24/8e24aa/tools.png"/> Tools & Environments**
+### <img src="https://img.icons8.com/fluency/24/8e24aa/tools.png"/> Tools & Environments
 - IntelliJ IDEA  
 - **Windows + WSL2 integration**
 - Linux CLI tooling
@@ -64,7 +64,7 @@ and continuously learning new technologies to sharpen my craft.
 
 ---
 
-## 🤝 Development & Collaboration Practices
+## <img src="https://img.icons8.com/fluency/24/fcba03/teamwork.png"/> Development & Collaboration Practices
 - Experience with **Git workflows** (feature branches, rebasing, merge strategies)
 - Creating and reviewing **Pull Requests** within enterprise teams
 - **Practical experience with Git submodules**  
@@ -76,34 +76,33 @@ and continuously learning new technologies to sharpen my craft.
 - Collaboration across distributed/global engineering teams
 - Experience creating Helm charts and managing Kubernetes deployments with kubectl
 
-
 ---
 
-## 📌 <img src="https://img.icons8.com/fluency/24/03a9f4/project.png"/> Featured Projects
+## <img src="https://img.icons8.com/fluency/24/03a9f4/project.png"/> Featured Projects
 *(Portfolio in active development — highlighting my core focus areas)*
 
-#### 🏛️ **Enterprise Spring Boot API**
+#### <img src="https://img.icons8.com/fluency/24/03a9f4/building.png"/> Enterprise Spring Boot API
 Highly structured API showcasing:
 - Clean domain layers
 - Secure authentication (JWT)
-- MS SQL + MongoDB/Cosmos DB
+- PostgreSQL + MongoDB/Cosmos DB
 - Dockerized deployment + CI/CD hooks
 
-#### ⚡ **Reactive WebFlux Microservice**
+#### <img src="https://img.icons8.com/fluency/24/ffbb00/lightning-bolt.png"/> Reactive WebFlux Microservice
 Explores:
 - Non-blocking I/O
 - Backpressure-aware streaming
 - ReactiveMongoRepository
 - Unit + integration testing
 
-#### ☁️ **Azure-Ready Deployment Demo**
+#### <img src="https://img.icons8.com/fluency/24/00c853/cloud.png"/> Azure-Ready Deployment Demo
 Spring Boot app containerized & deployed using:
 - Azure Kubernetes Service (AKS)
 - Azure App Service (alternative deployment path)
 - GitHub Actions CI/CD
 - Key Vault / secrets integration
 
-#### 🌐 **Fullstack Java + React Application**
+#### <img src="https://img.icons8.com/fluency/24/ff3d00/domain.png"/> Fullstack Java + React Application
 Complete flow:
 - Frontend & backend authentication
 - CRUD operations
@@ -111,7 +110,7 @@ Complete flow:
 
 ---
 
-## 📈 What I'm Learning / Improving
+## <img src="https://img.icons8.com/fluency/24/00e676/combo-chart.png"/> What I'm Learning / Improving
 - Distributed systems design patterns
 - Observability (logs, metrics, tracing)
 - Event-driven architectures (Kafka, Event Hub)
@@ -120,9 +119,9 @@ Complete flow:
 
 ---
 
-## 🤝 Let’s Connect
-💼 **LinkedIn:** https://www.linkedin.com/in/matej-thomka-ab2212286  
-📧 Always open to collaboration, discussions and new opportunities.
+## <img src="https://img.icons8.com/fluency/24/fcba03/contacts.png"/> Let’s Connect
+<img src="https://img.icons8.com/fluency/24/007bff/briefcase.png"/> **LinkedIn:** https://www.linkedin.com/in/matej-thomka-ab2212286  
+<img src="https://img.icons8.com/fluency/24/ffffff/new-post.png"/> **Email:** Always open to collaboration, discussions and new opportunities.
 
 ---
 
